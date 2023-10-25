@@ -1,0 +1,16 @@
+{
+  "name": "node.practice",
+  "version": "1.0.0",
+  "description": "Funzies",
+  "main": "index.js",
+  "scripts": {
+    "test": "Chelsea 😝"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}
